@@ -1,0 +1,121 @@
+2018-06-30 17:16:08,861  INFO: 启动CTA策略运行子进程
+2018-06-30 17:16:08,862  INFO: 事件引擎创建成功
+2018-06-30 17:16:08,961  INFO: 主引擎创建成功
+2018-06-30 17:16:08,963  INFO: 注册日志事件监听
+2018-06-30 17:16:11,292  INFO: huobi	行情服务器连接成功
+2018-06-30 17:16:11,355  INFO: huobi	交易服务器连接成功
+2018-06-30 17:16:11,494  INFO: 连接HUOBI接口
+2018-06-30 17:16:11,543  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-06-30 17:16:11,924  INFO: huobi	交易代码查询成功
+2018-06-30 17:16:12,446  INFO: huobi	交易账户1616722查询成功
+2018-06-30 17:16:12,447  INFO: huobi	交易账户3293164查询成功
+2018-06-30 17:16:12,448  INFO: huobi	交易账户3371698查询成功
+2018-06-30 17:16:21,497  INFO: CTA策略载入成功
+2018-06-30 17:16:36,505  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-06-30 17:16:55,769  INFO: CTA策略初始化成功
+2018-06-30 17:27:48,437  INFO: 启动CTA策略运行子进程
+2018-06-30 17:27:48,437  INFO: 事件引擎创建成功
+2018-06-30 17:27:48,506  INFO: 主引擎创建成功
+2018-06-30 17:27:48,506  INFO: 注册日志事件监听
+2018-06-30 17:27:50,565  INFO: huobi	行情服务器连接成功
+2018-06-30 17:27:50,644  INFO: huobi	交易服务器连接成功
+2018-06-30 17:27:50,681  INFO: 连接HUOBI接口
+2018-06-30 17:27:50,683  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-06-30 17:27:51,153  INFO: huobi	交易代码查询成功
+2018-06-30 17:27:51,665  INFO: huobi	交易账户1616722查询成功
+2018-06-30 17:27:51,674  INFO: huobi	交易账户3293164查询成功
+2018-06-30 17:27:51,678  INFO: huobi	交易账户3371698查询成功
+2018-06-30 17:28:00,684  INFO: CTA策略载入成功
+2018-06-30 17:40:47,970  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-06-30 17:41:08,005  INFO: CTA_STRATEGY	策略king keltner触发异常已停止
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 578, in callStrategyFunc
+    func()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 83, in onInit
+    for bar in initData:
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 83, in onInit
+    for bar in initData:
+  File "C:\Anaconda2\lib\bdb.py", line 49, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "C:\Anaconda2\lib\bdb.py", line 68, in dispatch_line
+    if self.quitting: raise BdbQuit
+BdbQuit
+
+2018-06-30 17:41:08,266  INFO: CTA策略初始化成功
+2018-06-30 17:41:08,267  INFO: CTA策略启动成功
+2018-06-30 17:41:32,447  INFO: 启动CTA策略运行子进程
+2018-06-30 17:41:32,448  INFO: 事件引擎创建成功
+2018-06-30 17:41:32,522  INFO: 主引擎创建成功
+2018-06-30 17:41:32,522  INFO: 注册日志事件监听
+2018-06-30 17:41:34,147  INFO: huobi	行情服务器连接成功
+2018-06-30 17:41:34,160  INFO: huobi	交易服务器连接成功
+2018-06-30 17:41:34,334  INFO: 连接HUOBI接口
+2018-06-30 17:41:34,367  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-06-30 17:41:34,752  INFO: huobi	交易代码查询成功
+2018-06-30 17:41:35,176  INFO: huobi	交易账户1616722查询成功
+2018-06-30 17:41:35,181  INFO: huobi	交易账户3293164查询成功
+2018-06-30 17:41:35,184  INFO: huobi	交易账户3371698查询成功
+2018-06-30 17:41:44,338  INFO: CTA策略载入成功
+2018-06-30 17:42:10,434  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-06-30 17:59:08,753  INFO: 启动CTA策略运行子进程
+2018-06-30 17:59:08,753  INFO: 事件引擎创建成功
+2018-06-30 17:59:08,842  INFO: 主引擎创建成功
+2018-06-30 17:59:08,844  INFO: 注册日志事件监听
+2018-06-30 17:59:10,486  INFO: huobi	行情服务器连接成功
+2018-06-30 17:59:10,496  INFO: huobi	交易服务器连接成功
+2018-06-30 17:59:10,680  INFO: 连接HUOBI接口
+2018-06-30 17:59:10,703  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-06-30 17:59:11,058  INFO: huobi	交易代码查询成功
+2018-06-30 17:59:11,535  INFO: huobi	交易账户1616722查询成功
+2018-06-30 17:59:11,542  INFO: huobi	交易账户3293164查询成功
+2018-06-30 17:59:11,546  INFO: huobi	交易账户3371698查询成功
+2018-06-30 17:59:20,688  INFO: CTA策略载入成功
+2018-06-30 18:01:24,976  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-06-30 18:51:05,803  INFO: 启动CTA策略运行子进程
+2018-06-30 18:51:05,803  INFO: 事件引擎创建成功
+2018-06-30 18:51:05,871  INFO: 主引擎创建成功
+2018-06-30 18:51:05,871  INFO: 注册日志事件监听
+2018-06-30 18:51:07,882  INFO: huobi	行情服务器连接成功
+2018-06-30 18:51:07,894  INFO: huobi	交易服务器连接成功
+2018-06-30 18:51:08,046  INFO: 连接HUOBI接口
+2018-06-30 18:51:08,081  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-06-30 18:51:08,428  INFO: huobi	交易代码查询成功
+2018-06-30 18:51:08,880  INFO: huobi	交易账户1616722查询成功
+2018-06-30 18:51:08,887  INFO: huobi	交易账户3293164查询成功
+2018-06-30 18:51:08,892  INFO: huobi	交易账户3371698查询成功
+2018-06-30 18:51:18,049  INFO: CTA策略载入成功
+2018-06-30 18:51:19,634  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-06-30 18:54:22,391  INFO: 启动CTA策略运行子进程
+2018-06-30 18:54:22,391  INFO: 事件引擎创建成功
+2018-06-30 18:54:22,516  INFO: 主引擎创建成功
+2018-06-30 18:54:22,535  INFO: 注册日志事件监听
+2018-06-30 18:54:24,315  INFO: huobi	行情服务器连接成功
+2018-06-30 18:54:24,315  INFO: huobi	交易服务器连接成功
+2018-06-30 18:54:24,407  INFO: 连接HUOBI接口
+2018-06-30 18:54:24,430  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-06-30 18:54:24,773  INFO: huobi	交易代码查询成功
+2018-06-30 18:54:25,196  INFO: huobi	交易账户1616722查询成功
+2018-06-30 18:54:25,200  INFO: huobi	交易账户3293164查询成功
+2018-06-30 18:54:25,204  INFO: huobi	交易账户3371698查询成功
+2018-06-30 18:54:34,410  INFO: CTA策略载入成功
+2018-06-30 18:54:36,075  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-06-30 19:00:40,861  INFO: CTA_STRATEGY	策略king keltner触发异常已停止
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 578, in callStrategyFunc
+    func()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 85, in onInit
+    for bar in initData:
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaTemplate.py", line 174, in loadBar
+    return self.ctaEngine.loadBar(self.barDbName, self.vtSymbol, days)
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 339, in loadBar
+    l = []
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 339, in loadBar
+    l = []
+  File "C:\Anaconda2\lib\bdb.py", line 49, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "C:\Anaconda2\lib\bdb.py", line 68, in dispatch_line
+    if self.quitting: raise BdbQuit
+BdbQuit
+
+2018-06-30 19:00:41,155  INFO: CTA策略初始化成功
+2018-06-30 19:00:41,157  INFO: CTA策略启动成功

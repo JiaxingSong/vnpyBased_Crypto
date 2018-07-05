@@ -1,0 +1,11 @@
+2018-03-22 15:11:42,776  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-03-22 15:11:45,040  INFO: OANDA	接口初始化成功
+2018-03-22 15:11:45,052  DEBUG: Starting new HTTPS connection (1): api-fxpractice.oanda.com
+2018-03-22 15:11:45,052  DEBUG: Starting new HTTPS connection (2): api-fxpractice.oanda.com
+2018-03-22 15:11:45,053  DEBUG: Starting new HTTPS connection (1): stream-fxpractice.oanda.com
+2018-03-22 15:11:45,625  DEBUG: Starting new HTTPS connection (3): api-fxpractice.oanda.com
+2018-03-22 15:11:46,644  DEBUG: https://api-fxpractice.oanda.com:443 "GET /v1/accounts/%E8%AF%B7%E5%9C%A8OANDA%E7%BD%91%E7%AB%99%E7%94%B3%E8%AF%B7/orders HTTP/1.1" 401 169
+2018-03-22 15:11:46,878  DEBUG: https://api-fxpractice.oanda.com:443 "GET /v1/accounts/%E8%AF%B7%E5%9C%A8OANDA%E7%BD%91%E7%AB%99%E7%94%B3%E8%AF%B7/transactions?count=100 HTTP/1.1" 401 169
+2018-03-22 15:11:47,576  DEBUG: https://api-fxpractice.oanda.com:443 "GET /v1/accounts/%E8%AF%B7%E5%9C%A8OANDA%E7%BD%91%E7%AB%99%E7%94%B3%E8%AF%B7 HTTP/1.1" 401 169
+2018-03-22 15:12:25,444  INFO: MAIN_ENGINE	接口不存在：
+2018-03-22 15:12:29,719  INFO: CTA_STRATEGY	CTA引擎启动成功

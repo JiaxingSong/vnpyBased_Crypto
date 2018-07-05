@@ -1,0 +1,437 @@
+2018-05-19 10:33:38,651  INFO: 启动CTA策略运行子进程
+2018-05-19 10:33:38,661  INFO: 事件引擎创建成功
+2018-05-19 10:33:39,069  INFO: 主引擎创建成功
+2018-05-19 10:33:39,069  INFO: 注册日志事件监听
+2018-05-19 10:46:01,055  INFO: huobi	行情服务器连接成功
+2018-05-19 10:46:01,062  INFO: huobi	交易服务器连接成功
+2018-05-19 10:46:01,230  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 10:46:01,644  INFO: huobi	交易代码查询成功
+2018-05-19 10:46:02,174  INFO: huobi	交易账户1616722查询成功
+2018-05-19 10:46:02,177  INFO: huobi	交易账户3293164查询成功
+2018-05-19 10:46:02,180  INFO: huobi	交易账户3371698查询成功
+2018-05-19 10:46:58,463  INFO: 连接HUOBI接口
+2018-05-19 10:51:26,131  INFO: 启动CTA策略运行子进程
+2018-05-19 10:51:26,132  INFO: 事件引擎创建成功
+2018-05-19 10:51:26,433  INFO: 主引擎创建成功
+2018-05-19 10:51:26,434  INFO: 注册日志事件监听
+2018-05-19 10:52:05,121  INFO: huobi	行情服务器连接成功
+2018-05-19 10:52:05,131  INFO: huobi	交易服务器连接成功
+2018-05-19 10:52:05,407  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 10:52:05,687  INFO: huobi	交易代码查询成功
+2018-05-19 10:52:06,101  INFO: huobi	交易账户1616722查询成功
+2018-05-19 10:52:06,105  INFO: huobi	交易账户3293164查询成功
+2018-05-19 10:52:06,107  INFO: huobi	交易账户3371698查询成功
+2018-05-19 10:53:35,357  INFO: 连接HUOBI接口
+2018-05-19 11:17:25,227  INFO: CTA策略载入成功
+2018-05-19 11:39:40,869  INFO: CTA_STRATEGY	atr rsi:atr rsi策略初始化
+2018-05-19 12:28:50,346  INFO: CTA策略初始化成功
+2018-05-19 13:13:24,921  INFO: 启动CTA策略运行子进程
+2018-05-19 13:13:24,927  INFO: 事件引擎创建成功
+2018-05-19 13:13:25,219  INFO: 主引擎创建成功
+2018-05-19 13:13:25,219  INFO: 注册日志事件监听
+2018-05-19 13:13:35,974  INFO: huobi	行情服务器连接成功
+2018-05-19 13:13:35,976  INFO: huobi	交易服务器连接成功
+2018-05-19 13:13:36,309  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 13:13:36,802  INFO: huobi	交易代码查询成功
+2018-05-19 13:13:37,803  INFO: huobi	交易账户1616722查询成功
+2018-05-19 13:13:37,808  INFO: huobi	交易账户3293164查询成功
+2018-05-19 13:13:37,811  INFO: huobi	交易账户3371698查询成功
+2018-05-19 13:13:49,486  INFO: 连接HUOBI接口
+2018-05-19 13:14:42,631  INFO: CTA策略载入成功
+2018-05-19 13:14:43,638  INFO: CTA_STRATEGY	atr rsi:atr rsi策略初始化
+2018-05-19 13:14:43,673  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 13:14:53,782  INFO: CTA策略初始化成功
+2018-05-19 13:15:05,562  INFO: CTA_STRATEGY	atr rsi:atr rsi策略启动
+2018-05-19 13:15:45,203  INFO: 启动CTA策略运行子进程
+2018-05-19 13:15:45,203  INFO: 事件引擎创建成功
+2018-05-19 13:15:45,260  INFO: 主引擎创建成功
+2018-05-19 13:15:45,262  INFO: 注册日志事件监听
+2018-05-19 13:16:16,914  INFO: huobi	行情服务器连接成功
+2018-05-19 13:16:16,917  INFO: huobi	交易服务器连接成功
+2018-05-19 13:16:17,082  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 13:16:17,476  INFO: huobi	交易代码查询成功
+2018-05-19 13:16:17,993  INFO: huobi	交易账户1616722查询成功
+2018-05-19 13:16:17,997  INFO: huobi	交易账户3293164查询成功
+2018-05-19 13:16:18,002  INFO: huobi	交易账户3371698查询成功
+2018-05-19 13:16:47,726  INFO: 连接HUOBI接口
+2018-05-19 13:19:31,010  INFO: CTA策略载入成功
+2018-05-19 13:19:31,897  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 13:19:36,332  INFO: CTA策略初始化成功
+2018-05-19 13:21:05,645  INFO: CTA_STRATEGY	king keltner:king keltner策略启动
+2018-05-19 13:28:29,148  INFO: CTA策略启动成功
+2018-05-19 14:06:32,141  INFO: 启动CTA策略运行子进程
+2018-05-19 14:06:32,144  INFO: 事件引擎创建成功
+2018-05-19 14:06:32,224  INFO: 主引擎创建成功
+2018-05-19 14:06:32,226  INFO: 注册日志事件监听
+2018-05-19 14:06:34,131  INFO: huobi	行情服务器连接成功
+2018-05-19 14:06:34,158  INFO: huobi	交易服务器连接成功
+2018-05-19 14:06:34,296  INFO: 连接HUOBI接口
+2018-05-19 14:06:34,345  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 14:06:34,665  INFO: huobi	交易代码查询成功
+2018-05-19 14:06:35,161  INFO: huobi	交易账户1616722查询成功
+2018-05-19 14:06:35,171  INFO: huobi	交易账户3293164查询成功
+2018-05-19 14:06:35,174  INFO: huobi	交易账户3371698查询成功
+2018-05-19 14:06:44,309  INFO: CTA策略载入成功
+2018-05-19 14:31:34,683  INFO: 启动CTA策略运行子进程
+2018-05-19 14:31:34,684  INFO: 事件引擎创建成功
+2018-05-19 14:31:34,769  INFO: 主引擎创建成功
+2018-05-19 14:31:34,769  INFO: 注册日志事件监听
+2018-05-19 14:31:36,372  INFO: huobi	行情服务器连接成功
+2018-05-19 14:31:36,423  INFO: huobi	交易服务器连接成功
+2018-05-19 14:31:36,542  INFO: 连接HUOBI接口
+2018-05-19 14:31:36,588  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 14:31:36,917  INFO: huobi	交易代码查询成功
+2018-05-19 14:31:37,331  INFO: huobi	交易账户1616722查询成功
+2018-05-19 14:31:37,335  INFO: huobi	交易账户3293164查询成功
+2018-05-19 14:31:37,338  INFO: huobi	交易账户3371698查询成功
+2018-05-19 14:31:46,549  INFO: CTA策略载入成功
+2018-05-19 14:41:21,648  INFO: 启动CTA策略运行子进程
+2018-05-19 14:41:21,650  INFO: 事件引擎创建成功
+2018-05-19 14:41:21,717  INFO: 主引擎创建成功
+2018-05-19 14:41:21,719  INFO: 注册日志事件监听
+2018-05-19 14:41:23,279  INFO: huobi	行情服务器连接成功
+2018-05-19 14:41:23,312  INFO: huobi	交易服务器连接成功
+2018-05-19 14:41:23,434  INFO: 连接HUOBI接口
+2018-05-19 14:41:23,482  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 14:41:23,819  INFO: huobi	交易代码查询成功
+2018-05-19 14:41:24,336  INFO: huobi	交易账户1616722查询成功
+2018-05-19 14:41:24,342  INFO: huobi	交易账户3293164查询成功
+2018-05-19 14:41:24,345  INFO: huobi	交易账户3371698查询成功
+2018-05-19 14:41:33,440  INFO: CTA策略载入成功
+2018-05-19 14:56:09,740  INFO: 启动CTA策略运行子进程
+2018-05-19 14:56:09,740  INFO: 事件引擎创建成功
+2018-05-19 14:56:09,809  INFO: 主引擎创建成功
+2018-05-19 14:56:09,809  INFO: 注册日志事件监听
+2018-05-19 14:56:12,523  INFO: huobi	行情服务器连接成功
+2018-05-19 14:56:12,536  INFO: huobi	交易服务器连接成功
+2018-05-19 14:56:12,556  INFO: 连接HUOBI接口
+2018-05-19 14:56:12,563  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 14:56:13,042  INFO: huobi	交易代码查询成功
+2018-05-19 14:56:13,507  INFO: huobi	交易账户1616722查询成功
+2018-05-19 14:56:13,513  INFO: huobi	交易账户3293164查询成功
+2018-05-19 14:56:13,516  INFO: huobi	交易账户3371698查询成功
+2018-05-19 14:56:22,559  INFO: CTA策略载入成功
+2018-05-19 14:57:15,013  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 14:57:35,217  INFO: CTA_STRATEGY	策略king keltner触发异常已停止
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 578, in callStrategyFunc
+    func()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 86, in onInit
+    self.putEvent()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 86, in onInit
+    self.putEvent()
+  File "C:\Anaconda2\lib\bdb.py", line 49, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "C:\Anaconda2\lib\bdb.py", line 68, in dispatch_line
+    if self.quitting: raise BdbQuit
+BdbQuit
+
+2018-05-19 14:57:35,444  INFO: CTA策略初始化成功
+2018-05-19 14:57:35,444  INFO: CTA策略启动成功
+2018-05-19 14:57:56,734  INFO: 启动CTA策略运行子进程
+2018-05-19 14:57:56,736  INFO: 事件引擎创建成功
+2018-05-19 14:57:56,789  INFO: 主引擎创建成功
+2018-05-19 14:57:56,789  INFO: 注册日志事件监听
+2018-05-19 14:57:58,463  INFO: huobi	行情服务器连接成功
+2018-05-19 14:57:58,466  INFO: huobi	交易服务器连接成功
+2018-05-19 14:57:58,611  INFO: 连接HUOBI接口
+2018-05-19 14:57:58,641  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 14:57:58,984  INFO: huobi	交易代码查询成功
+2018-05-19 14:57:59,506  INFO: huobi	交易账户1616722查询成功
+2018-05-19 14:57:59,506  INFO: huobi	交易账户3293164查询成功
+2018-05-19 14:57:59,509  INFO: huobi	交易账户3371698查询成功
+2018-05-19 14:58:08,621  INFO: CTA策略载入成功
+2018-05-19 15:02:19,805  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 15:02:28,456  INFO: CTA策略初始化成功
+2018-05-19 15:02:52,759  INFO: CTA_STRATEGY	king keltner:king keltner策略启动
+2018-05-19 15:03:08,631  INFO: CTA策略启动成功
+2018-05-19 15:05:17,427  INFO: 启动CTA策略运行子进程
+2018-05-19 15:05:17,428  INFO: 事件引擎创建成功
+2018-05-19 15:05:17,499  INFO: 主引擎创建成功
+2018-05-19 15:05:17,500  INFO: 注册日志事件监听
+2018-05-19 15:05:19,108  INFO: huobi	行情服务器连接成功
+2018-05-19 15:05:19,131  INFO: huobi	交易服务器连接成功
+2018-05-19 15:05:19,230  INFO: 连接HUOBI接口
+2018-05-19 15:05:19,263  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 15:05:19,690  INFO: huobi	交易代码查询成功
+2018-05-19 15:05:20,187  INFO: huobi	交易账户1616722查询成功
+2018-05-19 15:05:20,190  INFO: huobi	交易账户3293164查询成功
+2018-05-19 15:05:20,191  INFO: huobi	交易账户3371698查询成功
+2018-05-19 15:05:29,240  INFO: CTA策略载入成功
+2018-05-19 15:08:02,418  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 15:13:41,345  INFO: CTA_STRATEGY	策略king keltner触发异常已停止
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 578, in callStrategyFunc
+    func()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 83, in onInit
+    pdb.set_trace()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 83, in onInit
+    pdb.set_trace()
+  File "C:\Anaconda2\lib\bdb.py", line 49, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "C:\Anaconda2\lib\bdb.py", line 68, in dispatch_line
+    if self.quitting: raise BdbQuit
+BdbQuit
+
+2018-05-19 15:13:41,647  INFO: CTA策略初始化成功
+2018-05-19 15:13:41,648  INFO: CTA策略启动成功
+2018-05-19 15:14:07,954  INFO: 启动CTA策略运行子进程
+2018-05-19 15:14:07,954  INFO: 事件引擎创建成功
+2018-05-19 15:14:08,042  INFO: 主引擎创建成功
+2018-05-19 15:14:08,042  INFO: 注册日志事件监听
+2018-05-19 15:14:09,641  INFO: huobi	行情服务器连接成功
+2018-05-19 15:14:09,648  INFO: huobi	交易服务器连接成功
+2018-05-19 15:14:09,763  INFO: 连接HUOBI接口
+2018-05-19 15:14:09,765  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 15:14:10,131  INFO: huobi	交易代码查询成功
+2018-05-19 15:14:10,677  INFO: huobi	交易账户1616722查询成功
+2018-05-19 15:14:10,686  INFO: huobi	交易账户3293164查询成功
+2018-05-19 15:14:10,694  INFO: huobi	交易账户3371698查询成功
+2018-05-19 15:14:19,763  INFO: CTA策略载入成功
+2018-05-19 15:14:53,526  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 15:14:53,529  INFO: CTA_STRATEGY	策略king keltner触发异常已停止
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 578, in callStrategyFunc
+    func()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 83, in onInit
+    pdb.set_trace()
+NameError: global name 'pdb' is not defined
+
+2018-05-19 15:14:53,852  INFO: CTA策略初始化成功
+2018-05-19 15:14:53,854  INFO: CTA策略启动成功
+2018-05-19 15:15:21,536  INFO: 启动CTA策略运行子进程
+2018-05-19 15:15:21,536  INFO: 事件引擎创建成功
+2018-05-19 15:15:21,625  INFO: 主引擎创建成功
+2018-05-19 15:15:21,625  INFO: 注册日志事件监听
+2018-05-19 15:15:23,407  INFO: huobi	行情服务器连接成功
+2018-05-19 15:15:23,413  INFO: huobi	交易服务器连接成功
+2018-05-19 15:15:23,519  INFO: 连接HUOBI接口
+2018-05-19 15:15:23,529  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 15:15:23,926  INFO: huobi	交易代码查询成功
+2018-05-19 15:15:24,339  INFO: huobi	交易账户1616722查询成功
+2018-05-19 15:15:24,341  INFO: huobi	交易账户3293164查询成功
+2018-05-19 15:15:24,342  INFO: huobi	交易账户3371698查询成功
+2018-05-19 15:15:33,519  INFO: CTA策略载入成功
+2018-05-19 15:15:33,622  INFO: CTA_STRATEGY	找不到策略类：KkStrategy
+2018-05-19 15:16:30,891  INFO: 启动CTA策略运行子进程
+2018-05-19 15:16:30,892  INFO: 事件引擎创建成功
+2018-05-19 15:16:31,033  INFO: 主引擎创建成功
+2018-05-19 15:16:31,035  INFO: 注册日志事件监听
+2018-05-19 15:16:32,687  INFO: huobi	行情服务器连接成功
+2018-05-19 15:16:32,714  INFO: huobi	交易服务器连接成功
+2018-05-19 15:16:32,782  INFO: 连接HUOBI接口
+2018-05-19 15:16:32,789  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 15:16:33,269  INFO: huobi	交易代码查询成功
+2018-05-19 15:16:33,694  INFO: huobi	交易账户1616722查询成功
+2018-05-19 15:16:33,694  INFO: huobi	交易账户3293164查询成功
+2018-05-19 15:16:33,696  INFO: huobi	交易账户3371698查询成功
+2018-05-19 15:16:42,786  INFO: CTA策略载入成功
+2018-05-19 15:16:46,009  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 15:47:33,203  INFO: CTA策略初始化成功
+2018-05-19 15:49:11,714  INFO: CTA策略启动成功
+2018-05-19 16:11:07,596  INFO: 启动CTA策略运行子进程
+2018-05-19 16:11:07,596  INFO: 事件引擎创建成功
+2018-05-19 16:11:07,665  INFO: 主引擎创建成功
+2018-05-19 16:11:07,667  INFO: 注册日志事件监听
+2018-05-19 16:11:09,641  INFO: huobi	行情服务器连接成功
+2018-05-19 16:11:09,674  INFO: huobi	交易服务器连接成功
+2018-05-19 16:11:09,805  INFO: 连接HUOBI接口
+2018-05-19 16:11:09,851  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 16:11:10,230  INFO: huobi	交易代码查询成功
+2018-05-19 16:11:10,651  INFO: huobi	交易账户1616722查询成功
+2018-05-19 16:11:10,654  INFO: huobi	交易账户3293164查询成功
+2018-05-19 16:11:10,657  INFO: huobi	交易账户3371698查询成功
+2018-05-19 16:11:19,813  INFO: CTA策略载入成功
+2018-05-19 16:11:31,221  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 16:26:07,111  INFO: 启动CTA策略运行子进程
+2018-05-19 16:26:07,111  INFO: 事件引擎创建成功
+2018-05-19 16:26:07,186  INFO: 主引擎创建成功
+2018-05-19 16:26:07,187  INFO: 注册日志事件监听
+2018-05-19 16:26:09,092  INFO: huobi	行情服务器连接成功
+2018-05-19 16:26:09,118  INFO: huobi	交易服务器连接成功
+2018-05-19 16:26:09,253  INFO: 连接HUOBI接口
+2018-05-19 16:26:09,301  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 16:26:09,612  INFO: huobi	交易代码查询成功
+2018-05-19 16:26:10,029  INFO: huobi	交易账户1616722查询成功
+2018-05-19 16:26:10,032  INFO: huobi	交易账户3293164查询成功
+2018-05-19 16:26:10,032  INFO: huobi	交易账户3371698查询成功
+2018-05-19 16:26:19,255  INFO: CTA策略载入成功
+2018-05-19 16:26:22,753  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 16:35:41,532  INFO: 启动CTA策略运行子进程
+2018-05-19 16:35:41,532  INFO: 事件引擎创建成功
+2018-05-19 16:35:41,615  INFO: 主引擎创建成功
+2018-05-19 16:35:41,617  INFO: 注册日志事件监听
+2018-05-19 16:35:43,561  INFO: huobi	行情服务器连接成功
+2018-05-19 16:35:43,601  INFO: huobi	交易服务器连接成功
+2018-05-19 16:35:43,740  INFO: 连接HUOBI接口
+2018-05-19 16:35:43,766  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 16:35:44,196  INFO: huobi	交易代码查询成功
+2018-05-19 16:35:44,687  INFO: huobi	交易账户1616722查询成功
+2018-05-19 16:35:44,687  INFO: huobi	交易账户3293164查询成功
+2018-05-19 16:35:44,690  INFO: huobi	交易账户3371698查询成功
+2018-05-19 16:35:53,743  INFO: CTA策略载入成功
+2018-05-19 16:36:21,516  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 16:42:25,232  INFO: 启动CTA策略运行子进程
+2018-05-19 16:42:25,233  INFO: 事件引擎创建成功
+2018-05-19 16:42:25,319  INFO: 主引擎创建成功
+2018-05-19 16:42:25,321  INFO: 注册日志事件监听
+2018-05-19 16:42:26,875  INFO: huobi	行情服务器连接成功
+2018-05-19 16:42:26,917  INFO: huobi	交易服务器连接成功
+2018-05-19 16:42:27,029  INFO: 连接HUOBI接口
+2018-05-19 16:42:27,035  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 16:42:27,414  INFO: huobi	交易代码查询成功
+2018-05-19 16:42:27,828  INFO: huobi	交易账户1616722查询成功
+2018-05-19 16:42:27,829  INFO: huobi	交易账户3293164查询成功
+2018-05-19 16:42:27,831  INFO: huobi	交易账户3371698查询成功
+2018-05-19 16:42:37,033  INFO: CTA策略载入成功
+2018-05-19 16:43:16,280  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 16:48:20,145  INFO: 启动CTA策略运行子进程
+2018-05-19 16:48:20,147  INFO: 事件引擎创建成功
+2018-05-19 16:48:20,217  INFO: 主引擎创建成功
+2018-05-19 16:48:20,217  INFO: 注册日志事件监听
+2018-05-19 16:48:21,783  INFO: huobi	行情服务器连接成功
+2018-05-19 16:48:21,822  INFO: huobi	交易服务器连接成功
+2018-05-19 16:48:21,937  INFO: 连接HUOBI接口
+2018-05-19 16:48:21,947  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 16:48:22,303  INFO: huobi	交易代码查询成功
+2018-05-19 16:48:22,789  INFO: huobi	交易账户1616722查询成功
+2018-05-19 16:48:22,790  INFO: huobi	交易账户3293164查询成功
+2018-05-19 16:48:22,792  INFO: huobi	交易账户3371698查询成功
+2018-05-19 16:48:31,944  INFO: CTA策略载入成功
+2018-05-19 16:48:54,622  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 16:58:39,878  INFO: 启动CTA策略运行子进程
+2018-05-19 16:58:41,467  INFO: 事件引擎创建成功
+2018-05-19 16:58:48,361  INFO: 主引擎创建成功
+2018-05-19 16:59:11,921  INFO: 注册日志事件监听
+2018-05-19 17:05:12,924  INFO: 启动CTA策略运行子进程
+2018-05-19 17:05:12,924  INFO: 事件引擎创建成功
+2018-05-19 17:05:12,989  INFO: 主引擎创建成功
+2018-05-19 17:05:12,990  INFO: 注册日志事件监听
+2018-05-19 17:05:14,854  INFO: huobi	行情服务器连接成功
+2018-05-19 17:05:14,900  INFO: huobi	交易服务器连接成功
+2018-05-19 17:05:15,319  INFO: 连接HUOBI接口
+2018-05-19 17:05:15,345  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 17:05:15,716  INFO: huobi	交易代码查询成功
+2018-05-19 17:05:16,148  INFO: huobi	交易账户1616722查询成功
+2018-05-19 17:05:16,150  INFO: huobi	交易账户3293164查询成功
+2018-05-19 17:05:16,151  INFO: huobi	交易账户3371698查询成功
+2018-05-19 17:05:25,322  INFO: CTA策略载入成功
+2018-05-19 17:05:26,447  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 17:06:49,079  INFO: 启动CTA策略运行子进程
+2018-05-19 17:06:49,081  INFO: 事件引擎创建成功
+2018-05-19 17:06:49,141  INFO: 主引擎创建成功
+2018-05-19 17:06:49,163  INFO: 注册日志事件监听
+2018-05-19 17:06:50,757  INFO: huobi	行情服务器连接成功
+2018-05-19 17:06:50,767  INFO: huobi	交易服务器连接成功
+2018-05-19 17:06:50,868  INFO: 连接HUOBI接口
+2018-05-19 17:06:50,882  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 17:06:51,253  INFO: huobi	交易代码查询成功
+2018-05-19 17:06:51,671  INFO: huobi	交易账户1616722查询成功
+2018-05-19 17:06:51,674  INFO: huobi	交易账户3293164查询成功
+2018-05-19 17:06:51,677  INFO: huobi	交易账户3371698查询成功
+2018-05-19 17:07:00,875  INFO: CTA策略载入成功
+2018-05-19 17:07:14,974  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 17:09:18,546  INFO: 启动CTA策略运行子进程
+2018-05-19 17:09:18,546  INFO: 事件引擎创建成功
+2018-05-19 17:09:18,608  INFO: 主引擎创建成功
+2018-05-19 17:09:18,608  INFO: 注册日志事件监听
+2018-05-19 17:09:20,483  INFO: huobi	行情服务器连接成功
+2018-05-19 17:09:20,487  INFO: huobi	交易服务器连接成功
+2018-05-19 17:09:20,585  INFO: 连接HUOBI接口
+2018-05-19 17:09:20,591  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 17:09:20,924  INFO: huobi	交易代码查询成功
+2018-05-19 17:09:21,358  INFO: huobi	交易账户1616722查询成功
+2018-05-19 17:09:21,359  INFO: huobi	交易账户3293164查询成功
+2018-05-19 17:09:21,361  INFO: huobi	交易账户3371698查询成功
+2018-05-19 17:09:30,588  INFO: CTA策略载入成功
+2018-05-19 17:09:30,615  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 17:10:54,783  INFO: CTA_STRATEGY	策略king keltner触发异常已停止
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 578, in callStrategyFunc
+    func()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 84, in onInit
+    for bar in initData:
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 84, in onInit
+    for bar in initData:
+  File "C:\Anaconda2\lib\bdb.py", line 49, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "C:\Anaconda2\lib\bdb.py", line 67, in dispatch_line
+    self.user_line(frame)
+  File "C:\Anaconda2\lib\pdb.py", line 158, in user_line
+    self.interaction(frame, None)
+  File "C:\Anaconda2\lib\pdb.py", line 210, in interaction
+    self.cmdloop()
+  File "C:\Anaconda2\lib\cmd.py", line 142, in cmdloop
+    stop = self.onecmd(line)
+  File "C:\Anaconda2\lib\pdb.py", line 279, in onecmd
+    return cmd.Cmd.onecmd(self, line)
+  File "C:\Anaconda2\lib\cmd.py", line 221, in onecmd
+    return func(arg)
+  File "C:\Anaconda2\lib\pdb.py", line 679, in do_run
+    raise Restart
+Restart
+
+2018-05-19 17:11:23,717  INFO: 启动CTA策略运行子进程
+2018-05-19 17:11:23,717  INFO: 事件引擎创建成功
+2018-05-19 17:11:23,782  INFO: 主引擎创建成功
+2018-05-19 17:11:23,783  INFO: 注册日志事件监听
+2018-05-19 17:14:57,532  INFO: huobi	行情服务器连接成功
+2018-05-19 17:18:14,888  INFO: huobi	交易服务器连接成功
+2018-05-19 17:18:15,934  INFO: huobi	交易代码查询成功
+2018-05-19 17:18:16,358  INFO: huobi	交易账户1616722查询成功
+2018-05-19 17:18:16,358  INFO: huobi	交易账户3293164查询成功
+2018-05-19 17:18:16,358  INFO: huobi	交易账户3371698查询成功
+2018-05-19 17:18:36,118  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 17:18:40,130  INFO: 连接HUOBI接口
+2018-05-19 17:18:50,134  INFO: CTA策略载入成功
+2018-05-19 17:18:50,171  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 17:24:26,542  INFO: 启动CTA策略运行子进程
+2018-05-19 17:24:26,542  INFO: 事件引擎创建成功
+2018-05-19 17:24:26,634  INFO: 主引擎创建成功
+2018-05-19 17:24:26,634  INFO: 注册日志事件监听
+2018-05-19 17:24:30,719  INFO: huobi	行情服务器连接成功
+2018-05-19 17:24:30,759  INFO: huobi	交易服务器连接成功
+2018-05-19 17:24:30,884  INFO: 连接HUOBI接口
+2018-05-19 17:24:30,930  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 17:24:31,321  INFO: huobi	交易代码查询成功
+2018-05-19 17:24:31,802  INFO: huobi	交易账户1616722查询成功
+2018-05-19 17:24:31,803  INFO: huobi	交易账户3293164查询成功
+2018-05-19 17:24:31,806  INFO: huobi	交易账户3371698查询成功
+2018-05-19 17:24:40,888  INFO: CTA策略载入成功
+2018-05-19 17:24:40,944  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 17:28:19,454  INFO: 启动CTA策略运行子进程
+2018-05-19 17:28:19,456  INFO: 事件引擎创建成功
+2018-05-19 17:28:19,555  INFO: 主引擎创建成功
+2018-05-19 17:28:19,556  INFO: 注册日志事件监听
+2018-05-19 17:28:23,878  INFO: huobi	行情服务器连接成功
+2018-05-19 17:28:23,887  INFO: huobi	交易服务器连接成功
+2018-05-19 17:28:24,144  INFO: 连接HUOBI接口
+2018-05-19 17:28:24,163  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 17:28:24,528  INFO: huobi	交易代码查询成功
+2018-05-19 17:28:24,923  INFO: huobi	交易账户1616722查询成功
+2018-05-19 17:28:24,924  INFO: huobi	交易账户3293164查询成功
+2018-05-19 17:28:24,924  INFO: huobi	交易账户3371698查询成功
+2018-05-19 17:28:34,150  INFO: CTA策略载入成功
+2018-05-19 17:28:34,180  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-05-19 17:32:03,549  INFO: 启动CTA策略运行子进程
+2018-05-19 17:32:03,551  INFO: 事件引擎创建成功
+2018-05-19 17:32:03,618  INFO: 主引擎创建成功
+2018-05-19 17:32:03,618  INFO: 注册日志事件监听
+2018-05-19 17:46:41,434  INFO: 连接HUOBI接口
+2018-05-19 17:47:55,358  INFO: CTA策略载入成功
+2018-05-19 17:47:55,885  INFO: CTA策略初始化成功
+2018-05-19 17:47:55,887  INFO: CTA策略启动成功
+2018-05-19 17:48:43,177  INFO: 启动CTA策略运行子进程
+2018-05-19 17:48:43,177  INFO: 事件引擎创建成功
+2018-05-19 17:48:43,255  INFO: 主引擎创建成功
+2018-05-19 17:48:43,256  INFO: 注册日志事件监听
+2018-05-19 17:48:48,058  INFO: huobi	行情服务器连接成功
+2018-05-19 17:48:48,059  INFO: huobi	交易服务器连接成功
+2018-05-19 17:48:48,223  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-05-19 17:48:48,546  INFO: huobi	交易代码查询成功
+2018-05-19 17:48:48,963  INFO: huobi	交易账户1616722查询成功
+2018-05-19 17:48:48,964  INFO: huobi	交易账户3293164查询成功
+2018-05-19 17:48:48,967  INFO: huobi	交易账户3371698查询成功
+2018-05-19 17:48:51,203  INFO: 连接HUOBI接口
+2018-05-19 17:49:25,325  INFO: CTA策略载入成功
+2018-05-19 17:49:50,101  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化

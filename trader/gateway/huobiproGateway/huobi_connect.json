@@ -1,0 +1,8 @@
+{
+	"exchange": "huobi",
+	"accessKey": "1ee599d1-d52f61d3-a1af252c-739f7",
+	"secretKey": "a5602fba-b1a39a4b-f2c6b185-a44c9",
+	"symbols": ["xrpusdt"],
+	"proxyHost": "",
+	"proxyPort": 0
+}

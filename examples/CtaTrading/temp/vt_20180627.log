@@ -1,0 +1,44 @@
+2018-06-27 15:23:35,197  INFO: 启动CTA策略运行子进程
+2018-06-27 15:23:35,200  INFO: 事件引擎创建成功
+2018-06-27 15:23:35,315  INFO: 主引擎创建成功
+2018-06-27 15:23:35,315  INFO: 注册日志事件监听
+2018-06-27 15:23:37,019  INFO: huobi	行情服务器连接成功
+2018-06-27 15:23:37,042  INFO: huobi	交易服务器连接成功
+2018-06-27 15:23:37,332  INFO: 连接HUOBI接口
+2018-06-27 15:23:37,374  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-06-27 15:23:37,674  INFO: huobi	交易代码查询成功
+2018-06-27 15:23:38,193  INFO: huobi	交易账户1616722查询成功
+2018-06-27 15:23:38,194  INFO: huobi	交易账户3293164查询成功
+2018-06-27 15:23:38,197  INFO: huobi	交易账户3371698查询成功
+2018-06-27 15:24:01,691  INFO: CTA策略载入成功
+2018-06-27 15:24:08,053  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-06-27 15:24:30,956  INFO: CTA策略初始化成功
+2018-06-27 15:25:07,381  INFO: CTA策略启动成功
+2018-06-27 15:25:07,382  INFO: CTA_STRATEGY	策略king keltner触发异常已停止
+Traceback (most recent call last):
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\ctaEngine.py", line 578, in callStrategyFunc
+    func()
+  File "C:\Anaconda2\lib\site-packages\vnpy-1.8.0-py2.7.egg\vnpy\trader\app\ctaStrategy\strategy\strategyKingKeltner.py", line 89, in onStart
+    def onStart(self):
+  File "C:\Anaconda2\lib\bdb.py", line 51, in trace_dispatch
+    return self.dispatch_call(frame, arg)
+  File "C:\Anaconda2\lib\bdb.py", line 81, in dispatch_call
+    if self.quitting: raise BdbQuit
+BdbQuit
+
+2018-06-27 15:26:22,351  INFO: 启动CTA策略运行子进程
+2018-06-27 15:26:22,351  INFO: 事件引擎创建成功
+2018-06-27 15:26:22,430  INFO: 主引擎创建成功
+2018-06-27 15:26:22,431  INFO: 注册日志事件监听
+2018-06-27 15:26:24,099  INFO: huobi	行情服务器连接成功
+2018-06-27 15:26:24,138  INFO: huobi	交易服务器连接成功
+2018-06-27 15:26:24,454  INFO: 连接HUOBI接口
+2018-06-27 15:26:24,470  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-06-27 15:26:24,687  INFO: huobi	交易代码查询成功
+2018-06-27 15:26:25,167  INFO: huobi	交易账户1616722查询成功
+2018-06-27 15:26:25,170  INFO: huobi	交易账户3293164查询成功
+2018-06-27 15:26:25,171  INFO: huobi	交易账户3371698查询成功
+2018-06-27 15:26:34,459  INFO: CTA策略载入成功
+2018-06-27 15:27:12,447  INFO: CTA_STRATEGY	king keltner:king keltner策略初始化
+2018-06-28 10:40:57,578  INFO: CTA策略初始化成功
+2018-06-28 10:40:57,578  INFO: CTA策略启动成功
